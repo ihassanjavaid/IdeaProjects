@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Point
+comment1.params=
+comment1.target=Point()
+comment2.params=x\ y
+comment2.target=Point(int,\ int)
+comment3.params=x\ y
+comment3.target=void\ setPoint(int,\ int)
+comment4.params=x
+comment4.target=void\ setX(int)
+comment5.params=y
+comment5.target=void\ setY(int)
+comment6.params=x\ y
+comment6.target=void\ translate(int,\ int)
+comment7.params=r\ theta
+comment7.target=void\ setPolar(int,\ int)
+comment8.params=
+comment8.target=void\ getPolar()
+numComments=9

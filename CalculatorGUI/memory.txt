@@ -1,0 +1,2 @@
+Memory: 6
+Last Value: 

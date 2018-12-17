@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Time
+comment1.params=
+comment1.target=Time()
+comment2.params=hourInput\ minInput
+comment2.target=Time(int,\ int)
+comment3.params=hourInput\ minInput\ secInput
+comment3.target=Time(int,\ int,\ int)
+comment4.params=hourInput\ minInput\ secInput
+comment4.target=void\ setTime(int,\ int,\ int)
+comment5.params=hourInput
+comment5.target=void\ setHour(int)
+comment6.params=minInput
+comment6.target=void\ setMin(int)
+comment7.params=secInput
+comment7.target=void\ setSec(int)
+comment8.params=
+comment8.target=java.lang.String\ getTimeString()
+numComments=9

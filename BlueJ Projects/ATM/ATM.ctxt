@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ATM
+comment1.params=
+comment1.target=ATM()
+comment2.params=amount
+comment2.target=void\ withdraw(int)
+comment3.params=
+comment3.target=int\ checkBalance()
+comment4.params=amount
+comment4.target=boolean\ validateAmount(int)
+numComments=5

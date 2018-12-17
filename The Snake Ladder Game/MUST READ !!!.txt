@@ -1,0 +1,9 @@
+1. All the java codes are distributed in two packages named as
+	a)FrontEnd
+	b)BackEnd
+ both are in src folder.
+
+2. Full directory of image is given in 12th line of GameBoard.java in Front End, which would need to be changed
+for the game to work as per your computer.
+
+Thank you!

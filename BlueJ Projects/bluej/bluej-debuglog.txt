@@ -1,0 +1,12 @@
+BlueJ run started: Mon Oct 08 11:00:29 PKT 2018
+BlueJ version 4.1.2
+Java version 1.8.0_144
+Virtual machine: Java HotSpot(TM) Client VM 25.144-b01 (Oracle Corporation)
+Running on: Windows 10 10.0 (x86)
+Java Home: C:\Program Files (x86)\BlueJ\jdk\jre
+----
+Detected language "english" based on iso639-2 code "eng"
+Opening project: C:\Users\FLEX 4\Lab Oct 08
+1538978430466: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
